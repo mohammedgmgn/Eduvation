@@ -19,9 +19,8 @@ To create an environment where passionate people for education can come together
 
 
 
-<p align="centerc
+<p align="center">
 <img src="https://github.com/mohammedgmgn/Eduvation/blob/master/Screenshot_2017-03-18-06-33-51.png" width="250"/>
-
   <img src="https://github.com/mohammedgmgn/Eduvation/blob/master/Screenshot_2017-03-18-06-32-53.png" width="250"/>
     <img src="https://github.com/mohammedgmgn/Eduvation/blob/master/Screenshot_2017-03-18-06-33-18.png" width="250"/>
 <img src="https://github.com/mohammedgmgn/Eduvation/blob/master/Screenshot_2017-03-18-06-33-28.png" width="250"/>
