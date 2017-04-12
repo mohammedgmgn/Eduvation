@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?actionBarSize"
+    tools:context="org.mat.eduvation.navigation_items.Schedule">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layoutsch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="center_horizontal|top"
+            android:background="#FFF"
+            android:elevation="1dp"
+            app:tabSelectedTextColor="@color/colorAccent"
+            app:tabTextColor="#000" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pagersch"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/tab_layoutsch"
+            android:background="#FFF" />
+
+
+</RelativeLayout>
