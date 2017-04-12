@@ -18,6 +18,4 @@ EduVation " Education&Innovation " is:
 To create an environment where passionate people for education can come together to learn, network, bridge the gap between trades, expose potential and see actual results.
 
 
-### Link on Google play ###
 
-[Example](www.google.com)
